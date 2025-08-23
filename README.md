@@ -17,7 +17,7 @@ Este projeto foi desenvolvido como parte do curso **Google Cybersecurity Profess
 - [`checklist-details.md`](checklist-details.md): Detalhes da checklist em markdown.
 - 
 - ## 🌐 Portfólio Visual  
-- [Visualize este projeto em formato de site](https://cyberauditportfolio.my.canva.site/)  
+- [Visualize este projeto em formato de site](https://cyberauditportfolio.my.canva.site/) 
 
 ## 🔍 Principais Achados
 - **Score de risco**: 8/10 (Alto).

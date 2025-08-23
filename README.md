@@ -1,3 +1,6 @@
+# 🛡️ Security Audit: Botium Toys  
+*Um projeto fictício de auditoria de segurança baseado em NIST CSF, PCI DSS e GDPR.*
+
 # security-audit-botium-toys
 Security audit report for Botium Toys (fictitious project). Includes checklist of controls, compliance, and recommendations. (Relatório de auditoria de segurança para Botium Toys (projeto fictício). Inclui # 🛡️ Security Audit: Botium Toys (Fictitious Project)
 

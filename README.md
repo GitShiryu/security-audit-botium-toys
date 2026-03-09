@@ -1,47 +1,48 @@
-# 🛡️ Security Audit: Botium Toys  
-*Um projeto fictício de auditoria de segurança baseado em NIST CSF, PCI DSS e GDPR.*
+# Security Audit Report: Botium Toys 🛡️
 
-# security-audit-botium-toys
-Security audit report for Botium Toys (fictitious project). Includes checklist of controls, compliance, and recommendations. (Relatório de auditoria de segurança para Botium Toys (projeto fictício). Inclui # 🛡️ Security Audit: Botium Toys (Fictitious Project)
-
-> Auditoria de segurança interna para Botium Toys, uma empresa fictícia de brinquedos, com foco em controles de segurança, conformidade e recomendações.
-
-## 📋 Sobre o Projeto
-Este projeto foi desenvolvido como parte do curso **Google Cybersecurity Professional Certificate** no Coursera. Inclui:
-- Checklist de controles de segurança (NIST CSF).
-- Avaliação de conformidade (PCI DSS, GDPR, SOC).
-- Recomendações prioritárias para mitigação de riscos.
-
-## 📁 Estrutura do Repositório
-- [`audit-report.pdf`](Relatório de Avaliação de controles e conformidade.pdf): Relatório completo da auditoria (PDF).
-- [`checklist-details.md`](checklist-details.md): Detalhes da checklist em markdown.
-- 
-- ## 🌐 Portfólio Visual  
-- [Visualize este projeto em formato de site](https://cyberauditportfolio.my.canva.site/) 
-
-## 🔍 Principais Achados
-- **Score de risco**: 8/10 (Alto).
-- **56% dos controles não implementados** (ex: least privilege, encryption, backups).
-- **Conformidade**: PCI DSS e GDPR parcialmente atendidas; SOC não atendido.
-
-## 🚀 Recomendações-Chave
-1. Implementar **least privilege** e **criptografia** para dados sensíveis.
-2. Desenvolver **plano de recuperação de desastres** e **backups regulares**.
-3. Instalar **IDS** para detecção de ameaças em tempo real.
-
-## 🛠️ Ferramentas e Frameworks
-- **Frameworks**: NIST CSF, ISO 27001.
-- **Controles**: Administrativos, técnicos, físicos.
-- **Conformidade**: PCI DSS, GDPR, SOC.
-
-## 👨‍💻 Autor
-**Eli Rômulo de Araújo Martins**  
-Estudante de Segurança Cibernética (Uniasselvi) e Análise e Desenvolvimento de Sistemas.  
-Certificações: Google Cybersecurity, TryHackMe, Santander Open Academy.
-
-## 📄 Licença
-Este projeto é educacional. Botium Toys é uma empresa fictícia.
+A comprehensive cybersecurity audit and risk assessment conducted for **Botium Toys** (a fictitious global e-commerce entity). This project demonstrates proficiency in identifying security gaps, assessing compliance, and recommending strategic remediation plans.
 
 ---
 
-**🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/eli-martins-5911b82a0)** | **📧 Contato: eliromulo@gmail.com**checklist de controles, conformidade e recomendações).
+## 🚀 Project Overview
+
+The primary goal of this audit was to evaluate the current security posture of Botium Toys and ensure alignment with industry standards and legal requirements. As a **Cybersecurity and Systems Analysis** student, I focused on bridging the gap between technical vulnerabilities and business risks.
+
+## 📊 Scope & Methodology
+
+The audit covers the internal and external security controls, focusing on the following frameworks and standards:
+* **NIST Cybersecurity Framework (CSF):** Identify, Protect, Detect, Respond, and Recover.
+* **Compliance Standards:** Evaluation against **GDPR** (Data Privacy) and **PCI-DSS** (Payment Security).
+* **Risk Assessment:** Qualitative analysis of threats, vulnerabilities, and potential business impact.
+
+---
+
+## 🔍 Key Deliverables
+
+- [x] **Controls Checklist:** Assessment of administrative, technical, and physical safeguards.
+- [x] **Compliance Gap Analysis:** Identification of non-conformities with international regulations.
+- [x] **Risk Mitigation Strategy:** Prioritized recommendations to reduce the attack surface.
+- [x] **Executive Summary:** A clear report translating technical findings into actionable business insights.
+
+---
+
+## 🛠 Skills & Tools Demonstrated
+
+* **GRC (Governance, Risk, and Compliance):** Understanding of security policies and regulatory landscapes.
+* **Vulnerability Management:** Logical analysis of system weaknesses.
+* **Asset Management:** Cataloging and securing critical business hardware and software.
+* **Documentation:** Professional reporting for stakeholders and technical teams.
+
+---
+
+## 🔧 How to Review
+
+The full report and checklist are available in the repository files.
+1. Download the `Audit_Report.pdf` (or view the markdown version).
+2. Review the `Checklist.xlsx` for a granular view of the security controls evaluated.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
